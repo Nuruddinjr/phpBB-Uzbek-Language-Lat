@@ -37,38 +37,38 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'ACTIVE_TOPICS'			=> 'Активные темы',
-	'ANNOUNCEMENTS'			=> 'Объявления',
+	'ACTIVE_TOPICS'			=> 'Aktiv mavzular',
+	'ANNOUNCEMENTS'			=> 'E\'lonlar',
 
-	'FORUM_PERMISSIONS'		=> 'Права доступа',
+	'FORUM_PERMISSIONS'		=> 'Huquqlar',
 
-	'ICON_ANNOUNCEMENT'		=> 'Объявление',
-	'ICON_STICKY'			=> 'Прилепленная',
+	'ICON_ANNOUNCEMENT'		=> 'E\'lon',
+	'ICON_STICKY'			=> 'Muhim',
 
-	'LOGIN_NOTIFY_FORUM'	=> 'Вы получили уведомление о новом сообщении в этом форуме, пожалуйста, авторизируйтесь для его просмотра.',
+	'LOGIN_NOTIFY_FORUM'	=> 'Shu forumdagi yangi habar haqidagi bildirishnoma olgansiz, uni ko\'rish uchun tizimga kiring.',
 
-	'MARK_TOPICS_READ'		=> 'Отметить все темы как прочтённые',
+	'MARK_TOPICS_READ'		=> 'Forumdagi barcha mavzular o\'qilgan deb belgilash',
 
-	'NEW_POSTS_HOT'			=> 'Новые сообщения [ Популярная тема ]', // Больше не используется
-	'NEW_POSTS_LOCKED'		=> 'Новые сообщения [ Тема закрыта ]', // Больше не используется
-	'NO_NEW_POSTS_HOT'		=> 'Нет новых сообщений [ Популярная тема ]', // Больше не используется
-	'NO_NEW_POSTS_LOCKED'	=> 'Нет новых сообщений [ Тема закрыта ]', // Больше не используется
-	'NO_UNREAD_POSTS_HOT'	=> 'Нет непрочитанных сообщений [ Популярная тема ]',
-	'NO_UNREAD_POSTS_LOCKED'=> 'Нет непрочитанных сообщений [ Тема закрыта ]',
+	'NEW_POSTS_HOT'			=> 'O\'qilmagan habarla [ Mashhur mavzu ]', // Boshqa ishlatilmaydi
+	'NEW_POSTS_LOCKED'		=> 'O\'qilmagan habarla [ Yopiq mavzu ]', // Boshqa ishlatilmaydi
+	'NO_NEW_POSTS_HOT'		=> 'Yangi habarlar yo\'q [ Mashhur mavzu ]', // Boshqa ishlatilmaydi
+	'NO_NEW_POSTS_LOCKED'	=> 'Yangi habarlar yo\'q [ Yopiq mavzu ]', // Boshqa ishlatilmaydi
+	'NO_UNREAD_POSTS_HOT'	=> 'O\'qilmagan habarlar yo\'q [ Mashhur mavzu ]',
+	'NO_UNREAD_POSTS_LOCKED'=> 'O\'qilmagan habarlar yo\'q [ Yopiq mavzu ]',
 
-	'POST_FORUM_LOCKED'		=> 'Форум закрыт',
+	'POST_FORUM_LOCKED'		=> 'Forum yopiq',
 
-	'TOPICS_MARKED'			=> 'Все темы в этом форуме были отмечены как прочтённые.',
+	'TOPICS_MARKED'			=> 'Forumdagi barcha mavzular o\'qilgan deb belgilangan.',
 
-	'UNREAD_POSTS_HOT'		=> 'Непрочитанные сообщения [ Популярная тема ]',
-	'UNREAD_POSTS_LOCKED'	=> 'Непрочитанные сообщения [ Тема закрыта ]',
+	'UNREAD_POSTS_HOT'		=> 'O\'qilmagan habarlar [ Mashhur mavzu ]',
+	'UNREAD_POSTS_LOCKED'	=> 'O\'qilmagan habarlar [ Yopiq mavzu ]',
 
-	'NO_READ_ACCESS'		=> 'У вас нет доступа на чтение тем в этом форуме.',
+	'NO_READ_ACCESS'		=> 'Bu forumda o\'qish uchun huquqingiz yo\'q.',
 
-	'VIEW_FORUM'			=> 'Просмотр форума',
+	'VIEW_FORUM'			=> 'Forumni ko\'rish',
 	'VIEW_FORUM_TOPICS'		=> array(
-		1	=> '%d тема',
-		2	=> '%d темы',
-		3	=> '%d тем',
+		1	=> '%d mavzu',
+		2	=> '%d mavzu',
+		3	=> '%d mavzu',
 	),
 ));
