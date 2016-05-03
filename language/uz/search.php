@@ -118,12 +118,12 @@ $lang = array_merge($lang, array(
 	'SORT_FORUM'				=> 'Forum',
 	'SORT_POST_SUBJECT'			=> 'Habar sarlavhasi',
 	'SORT_TIME'					=> 'Qo\'shilgan vaqti',
-	'SPHINX_SEARCH_FAILED'		=> 'Qidirish hatosi: %s',
+	'SPHINX_SEARCH_FAILED'		=> 'Qidiriruv hatosi: %s',
 	'SPHINX_SEARCH_FAILED_LOG'	=> 'Qiriruvni amalga oshirib bo\'maydi. Ba\'tafsil malumot hatolar jurnalida.',
 
 	'TOO_FEW_AUTHOR_CHARS'	=> array(
-		1	=> 'Muallifning ismidan %d kam emas belgilarini yozishingiz kerak.',
-		2	=> 'Muallifning ismidan %d kam emas belgilarini yozishingiz kerak.',
-		3	=> 'Muallifning ismidan %d kam emas belgilarini yozishingiz kerak.',
+		1	=> 'Muallifning ismidan %d dan kam emas belgilarini yozishingiz kerak.',
+		2	=> 'Muallifning ismidan %d dan kam emas belgilarini yozishingiz kerak.',
+		3	=> 'Muallifning ismidan %d dan kam emas belgilarini yozishingiz kerak.',
 	),
 ));
