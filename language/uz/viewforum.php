@@ -66,9 +66,5 @@ $lang = array_merge($lang, array(
 	'NO_READ_ACCESS'		=> 'Bu forumda o\'qish uchun huquqingiz yo\'q.',
 
 	'VIEW_FORUM'			=> 'Forumni ko\'rish',
-	'VIEW_FORUM_TOPICS'		=> array(
-		1	=> '%d mavzu',
-		2	=> '%d mavzu',
-		3	=> '%d mavzu',
-	),
+	'VIEW_FORUM_TOPICS'		=> '%d mavzu',
 ));

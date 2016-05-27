@@ -59,6 +59,6 @@ $lang = array_merge($lang, array(
 	'QUESTION_TEXT_EXPLAIN'		=> 'Foydalanuvchiga beriladigan savol.',
 
 	'QA_ERROR_MSG'				=> 'Barcha maydonlarni to\'ldiring va bittadan kam emas javob yozing.',
- 	'QA_LAST_QUESTION'			=> 'Нельзя удалить все вопросы, пока текстовое подтверждение выбрано в качестве используемого на конференции.',
+    'QA_LAST_QUESTION'			=> 'Tekst tarzida tasdiqlash konferensiyada tanlanganida hamma savollarni o\'chirib bo\'lmaydi.',
 
 ));

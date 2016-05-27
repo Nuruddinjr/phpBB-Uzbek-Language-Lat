@@ -37,7 +37,7 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'APPROVE'								=> 'Одобрить',
+	'APPROVE'								=> 'Tasdiqlash',
 	'ATTACHMENT'						=> 'Вложение',
 	'ATTACHMENT_FUNCTIONALITY_DISABLED'	=> 'Функция вложений отключена.',
 
@@ -46,21 +46,17 @@ $lang = array_merge($lang, array(
 	'BOOKMARK_REMOVED'		=> 'Тема успешно удалена из закладок.',
 	'BOOKMARK_TOPIC'		=> 'В закладки',
 	'BOOKMARK_TOPIC_REMOVE'	=> 'Удалить из закладок',
-	'BUMPED_BY'				=> 'Тема поднималась пользователем %1$s %2$s.',
-	'BUMP_TOPIC'			=> 'Поднять тему',
+	'BUMPED_BY'				=> 'Mavzu %1$s %2$s bilan ko\'tarildi.',
+	'BUMP_TOPIC'			=> 'Mavzuni ko\'tarish',
 
-	'CODE'					=> 'Код',
+	'CODE'					=> 'Kod',
 
-	'DELETE_TOPIC'			=> 'Удалить тему',
-	'DELETED_INFORMATION'	=> 'Удалено %2$s пользователем %1$s',
-	'DISAPPROVE'					=> 'Отклонить',
+	'DELETE_TOPIC'			=> 'Mavzuni o\'chirish',
+	'DELETED_INFORMATION'	=> '%1$s bilan o\'chirildi %2$s ',
+	'DISAPPROVE'					=> 'Rad etish',
 	'DOWNLOAD_NOTICE'		=> 'У вас нет необходимых прав для просмотра вложений в этом сообщении.',
 
-	'EDITED_TIMES_TOTAL'	=> array(
-		1	=> 'Последний раз редактировалось %2$s %3$s, всего редактировалось %1$d раз.',
-		2	=> 'Последний раз редактировалось %2$s %3$s, всего редактировалось %1$d раза.',
-		3	=> 'Последний раз редактировалось %2$s %3$s, всего редактировалось %1$d раз.',
-	),
+	'EDITED_TIMES_TOTAL'	=> 'Последний раз редактировалось %2$s %3$s, всего редактировалось %1$d раз.',
 	'EMAIL_TOPIC'			=> 'Отправить тему по email',
 	'ERROR_NO_ATTACHMENT'	=> 'Выбранного вложения больше не существует.',
 

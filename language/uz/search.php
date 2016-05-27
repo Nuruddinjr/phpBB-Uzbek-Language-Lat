@@ -69,7 +69,7 @@ $lang = array_merge($lang, array(
 		2	=> 'Qidiruv uchun juda ko\'p so\'z yozdingiz. Shunday so\'zlar %1$d kam bo\'lishi kerak.',
 		3	=> 'Qidiruv uchun juda ko\'p so\'z yozdingiz. Shunday so\'zlar %1$d kam bo\'lishi kerak.',
 	),
-	
+
 	'NO_KEYWORDS'			=> 'Qidirish uchun bittadan kam emas so\'z yozishingiz kerak. Har bir so\'zning uzunligi %s kam bo\'lmasdan va %s ko\'p bolishi mumkin emas, * belgisidan tashqari.',
 	'NO_RECENT_SEARCHES'	=> 'Ohirgi vaqt ichida qidiruv so\'rovlari bo\'lmagan.',
 	'NO_SEARCH'				=> 'Sizga qidirshni ishlatish taqiqlangan.',
@@ -121,9 +121,5 @@ $lang = array_merge($lang, array(
 	'SPHINX_SEARCH_FAILED'		=> 'Qidirish hatosi: %s',
 	'SPHINX_SEARCH_FAILED_LOG'	=> 'Qiriruvni amalga oshirib bo\'maydi. Ba\'tafsil malumot hatolar jurnalida.',
 
-	'TOO_FEW_AUTHOR_CHARS'	=> array(
-		1	=> 'Muallifning ismidan %d kam emas belgilarini yozishingiz kerak.',
-		2	=> 'Muallifning ismidan %d kam emas belgilarini yozishingiz kerak.',
-		3	=> 'Muallifning ismidan %d kam emas belgilarini yozishingiz kerak.',
-	),
+	'TOO_FEW_AUTHOR_CHARS'	=> 'Muallifning ismidan %d kam emas belgilarini yozishingiz kerak.',
 ));
