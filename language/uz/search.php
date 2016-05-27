@@ -75,11 +75,7 @@ $lang = array_merge($lang, array(
 	'NO_SEARCH'				=> 'Sizga qidirshni ishlatish taqiqlangan.',
 	'NO_SEARCH_RESULTS'		=> 'Mos keladigan mavzular yoki habarlar topilmadi.',
 	'NO_SEARCH_LOAD'		=> 'Qirish vaqtincha ishlamayapti. Server haddan tashqari yuklangan. Keyinroq urunib ko\'ring.',
-	'NO_SEARCH_TIME'		=> array(
-		1 => 'Oldingi so\'rovdan keyin ozgina kutishingiz kerak. %d soniya kutib turing.',
-		2 => 'Oldingi so\'rovdan keyin ozgina kutishingiz kerak. %d soniya kutib turing.',
-		3 => 'Oldingi so\'rovdan keyin ozgina kutishingiz kerak. %d soniya kutib turing.',
-	),
+	'NO_SEARCH_TIME'		=> 'Oldingi so\'rovdan keyin ozgina kutishingiz kerak. %d soniya kutib turing.',
 	'NO_SEARCH_UNREADS'		=> 'Bu konferentsiyada o\'qilmagan habarlarni qidirish taqiqlangan.',
 	'WORD_IN_NO_POST'		=> 'Mos keladigan habarlar topilmadi, <strong>%s</strong> so\'zi hech qayerda uchramaydi.',
 	'WORDS_IN_NO_POST'		=> 'Mos keladigan habarlar topilmadi, <strong>%s</strong> so\'zlari hech qayerda uchramaydi.',
@@ -118,8 +114,12 @@ $lang = array_merge($lang, array(
 	'SORT_FORUM'				=> 'Forum',
 	'SORT_POST_SUBJECT'			=> 'Habar sarlavhasi',
 	'SORT_TIME'					=> 'Qo\'shilgan vaqti',
-	'SPHINX_SEARCH_FAILED'		=> 'Qidirish hatosi: %s',
+	'SPHINX_SEARCH_FAILED'		=> 'Qidiruv hatosi: %s',
 	'SPHINX_SEARCH_FAILED_LOG'	=> 'Qiriruvni amalga oshirib bo\'maydi. Ba\'tafsil malumot hatolar jurnalida.',
 
+<<<<<<< HEAD
 	'TOO_FEW_AUTHOR_CHARS'	=> 'Muallifning ismidan %d kam emas belgilarini yozishingiz kerak.',
+=======
+	'TOO_FEW_AUTHOR_CHARS'	=> 'Muallifning ismidan %d dan kam emas belgilarini yozishingiz kerak.',
+>>>>>>> origin/master
 ));

@@ -5,7 +5,6 @@
 *
 * @copyright (c) phpBB Limited <https://www.phpbb.com>
 * @license GNU General Public License, version 2 (GPL-2.0)
-*
 * For full copyright and license information, please see
 * the docs/CREDITS.txt file.
 *
@@ -49,8 +48,8 @@ $lang = array_merge($lang, array(
 
 	'MARK_TOPICS_READ'		=> 'Forumdagi barcha mavzular o\'qilgan deb belgilash',
 
-	'NEW_POSTS_HOT'			=> 'O\'qilmagan habarla [ Mashhur mavzu ]', // Boshqa ishlatilmaydi
-	'NEW_POSTS_LOCKED'		=> 'O\'qilmagan habarla [ Yopiq mavzu ]', // Boshqa ishlatilmaydi
+	'NEW_POSTS_HOT'			=> 'O\'qilmagan habarlar [ Mashhur mavzu ]', // Boshqa ishlatilmaydi
+	'NEW_POSTS_LOCKED'		=> 'O\'qilmagan habarlar [ Yopiq mavzu ]', // Boshqa ishlatilmaydi
 	'NO_NEW_POSTS_HOT'		=> 'Yangi habarlar yo\'q [ Mashhur mavzu ]', // Boshqa ishlatilmaydi
 	'NO_NEW_POSTS_LOCKED'	=> 'Yangi habarlar yo\'q [ Yopiq mavzu ]', // Boshqa ishlatilmaydi
 	'NO_UNREAD_POSTS_HOT'	=> 'O\'qilmagan habarlar yo\'q [ Mashhur mavzu ]',
@@ -63,7 +62,7 @@ $lang = array_merge($lang, array(
 	'UNREAD_POSTS_HOT'		=> 'O\'qilmagan habarlar [ Mashhur mavzu ]',
 	'UNREAD_POSTS_LOCKED'	=> 'O\'qilmagan habarlar [ Yopiq mavzu ]',
 
-	'NO_READ_ACCESS'		=> 'Bu forumda o\'qish uchun huquqingiz yo\'q.',
+	'NO_READ_ACCESS'		=> 'Bu forumda o\'qish ni iloji yo\'q.',
 
 	'VIEW_FORUM'			=> 'Forumni ko\'rish',
 	'VIEW_FORUM_TOPICS'		=> '%d mavzu',
